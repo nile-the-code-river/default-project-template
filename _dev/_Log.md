@@ -1,21 +1,26 @@
-<{PROJECT NAME}> Log
+## <{PROJECT NAME}> Log
+
 < [Devlog](./Devlog.md) | [Resources](./Resource.md) >
 
-\***\*\_**MEMO**\_\*\***
-Monthly Goal: {}
-Weekly Goal: {}
+##### _MEMO_
 
-**What to do NEXT TIME --------------------------------**
+**Monthly Goal**
+{MONTHLY GOAL}
+**Weekly Goal**
+{WEEKLY GOAL}
+
+#####What to do NEXT--------------------------------
 <{Done with A, need to get started with B}>
 
-**-------------------------------- Backlog**
+##### -------------------------------- Backlog
 
 - <{TASK}>
-  - <{INDENTATION FOR SUB-TASK/MEMO}>
+  &emsp;- <{INDENTATION FOR SUB-TASK/MEMO}>
 
-**-------------------------------- Ready**
+##### -------------------------------- Ready
 
-**-------------------------------- In Progress**
+##### -------------------------------- In Progress
 
-**-------------------------------- Done**
+##### -------------------------------- Done
+
 <{DONE TASK}> | {FINISHED DATE / USED DAYS}
