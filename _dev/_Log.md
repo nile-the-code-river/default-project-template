@@ -2,14 +2,17 @@
 
 < [Devlog](./Devlog.md) | [Resources](./Resource.md) >
 
-##### _MEMO_
+##### MEMO
 
-**Monthly Goal**
+{MEMO}
+
+**Monthly Goal**  
 {MONTHLY GOAL}
-**Weekly Goal**
+**Weekly Goal**  
 {WEEKLY GOAL}
 
-#####What to do NEXT--------------------------------
+##### What to do NEXT--------------------------------
+
 <{Done with A, need to get started with B}>
 
 ##### -------------------------------- Backlog
